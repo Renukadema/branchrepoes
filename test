@@ -1,22 +1,22 @@
 Git branching ---- 
-
+======================
 main/master---
 feature
 develop
 release 
 hotfix
-
+===================
 git branch <bname>
 git checkout <bbname>
 ----------
 git checkout -b <bname>
 --------
-
+==============================
 git branch
 git branch -a
 
 git branch -d <bname>
-
+===================================
 --------------------------
 git add 
 git commit
